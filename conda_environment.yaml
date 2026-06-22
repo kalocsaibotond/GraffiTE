@@ -1,0 +1,25 @@
+name: graffite
+channels:
+  - defaults
+  - conda-forge
+  - bioconda
+
+dependencies:
+  - nextflow
+  - minimap2
+  - svim-asm
+  - sniffles
+  - repeatmasker
+  - vg
+  - graphaligner
+  - pangenie
+  - samtools
+  - bcftools
+  - bedtools
+  - rmblast
+  - survivor
+  - vcfpy
+  - r-optparse
+  - r-dplyr
+  - r-tidyverse
+  - r-vcfr
